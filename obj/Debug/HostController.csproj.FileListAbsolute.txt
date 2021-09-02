@@ -1,0 +1,21 @@
+C:\Users\Jack\source\repos\HostController\bin\Debug\HostController.exe
+C:\Users\Jack\source\repos\HostController\bin\Debug\HostController.pdb
+C:\Users\Jack\source\repos\HostController\obj\Debug\HostController.csprojAssemblyReference.cache
+C:\Users\Jack\source\repos\HostController\obj\Debug\HostController.Form1.resources
+C:\Users\Jack\source\repos\HostController\obj\Debug\HostController.Properties.Resources.resources
+C:\Users\Jack\source\repos\HostController\obj\Debug\HostController.csproj.GenerateResource.cache
+C:\Users\Jack\source\repos\HostController\obj\Debug\HostController.exe
+C:\Users\Jack\source\repos\HostController\obj\Debug\HostController.pdb
+H:\Documents\VS Projects\repos\HostController\bin\Debug\HostController.exe
+H:\Documents\VS Projects\repos\HostController\bin\Debug\HostController.pdb
+H:\Documents\VS Projects\repos\HostController\obj\Debug\HostController.Form1.resources
+H:\Documents\VS Projects\repos\HostController\obj\Debug\HostController.Properties.Resources.resources
+H:\Documents\VS Projects\repos\HostController\obj\Debug\HostController.csproj.GenerateResource.cache
+H:\Documents\VS Projects\repos\HostController\obj\Debug\HostController.exe
+H:\Documents\VS Projects\repos\HostController\obj\Debug\HostController.pdb
+H:\Documents\VS Projects\repos\HostController\bin\Debug\HostController.exe.config
+H:\Documents\VS Projects\repos\HostController\bin\Debug\DerConverter.dll
+H:\Documents\VS Projects\repos\HostController\bin\Debug\PemUtils.dll
+H:\Documents\VS Projects\repos\HostController\obj\Debug\HostController.displayCurrentKeys.resources
+H:\Documents\VS Projects\repos\HostController\obj\Debug\HostController.csprojAssemblyReference.cache
+H:\Documents\VS Projects\repos\HostController\obj\Debug\HostController.csproj.CopyComplete
